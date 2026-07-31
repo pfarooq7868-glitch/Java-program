@@ -9,5 +9,7 @@ public class TypeCasting {
         int y=(int)x;
         System.out.println("x =" +x);
         System.out.println("y ="+y);
+
+        System.out.println("Farooq Khan");
     }
 }
